@@ -15,4 +15,4 @@
 ### 3.) Run the chatbot application:
 ### chainlit run chatbot.py -w
 ## Demo Video:
-
+[!Demo Video](https://github.com/Aryasharma001/ChatMinds/assets/98249716/c79584d1-5bfc-45ef-8f7d-1344339faaef)
